@@ -1,2 +1,3 @@
 ls -ltr
 touch
+cp
