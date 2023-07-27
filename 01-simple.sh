@@ -1,4 +1,2 @@
-ls -ltr
-touch
-cp
+
 
