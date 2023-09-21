@@ -13,4 +13,5 @@ echo -e "\e[36mHello in Cyan Color\e[0m"
 
 echo -e "\e[4mHello\e[0m"
 echo -e "\e[5mHello\e[0m"
+echo -e "\e[31mNormal Red\e[1;31mBold Red\e[0m"
 
